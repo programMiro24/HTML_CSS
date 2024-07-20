@@ -1,2 +1,4 @@
 # HTML_CSS
-  - Sites made with HTML and CSS
+  - Site about Computer System
+    - Author: Miroslav Mihnev
+    - Time: 4 month
